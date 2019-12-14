@@ -193,8 +193,8 @@ flexible messaging model and an intuitive client API.</description>
     <test-hdfs-offload-jetty>9.3.24.v20180605</test-hdfs-offload-jetty>
     <elasticsearch.version>6.3.2</elasticsearch.version>
     <presto.version>0.206</presto.version>
-    <flink.version>1.6.0</flink.version>
-    <scala.binary.version>2.11</scala.binary.version>
+    <flink.version>1.9.1</flink.version>
+    <scala.binary.version>2.12</scala.binary.version>
     <debezium.version>0.10.0.Final</debezium.version>
     <jsonwebtoken.version>0.10.5</jsonwebtoken.version>
     <opencensus.version>0.18.0</opencensus.version>
